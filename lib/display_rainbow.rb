@@ -1,6 +1,5 @@
 # Write your #display_rainbow method here
 
 def display_rainbow(colors)
-  puts "Name: #{colors[0]}, Age: #{person[1]}, Occupation: #{person[2]}"
-  puts "Contact: #{person[3]}"
+  puts "R: #{colors[0]}, O: #{colors[0]}, Y: #{colors[0]}, G: #{colors[0]}, B: #{colors[0]}, I: #{colors[0]}, V: #{colors[0]}"
 end
